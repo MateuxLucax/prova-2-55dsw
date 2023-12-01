@@ -7,6 +7,10 @@
     "email": "mateuxlucax@gmail.com",
     "name": "Mateus Brandt"
   },
+  "repository": {
+    "url": "https://github.com/MateuxLucax/prova-2-55dsw",
+    "type": "git"
+  },
   "dependencies": {
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
